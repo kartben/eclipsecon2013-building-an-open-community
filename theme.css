@@ -27,6 +27,50 @@ html.open body {
 	background-image:url("images/open.jpg");
 }
 
+html.m2miwg body {	
+	background-image:url("images/m2miwg.png");
+}
+
+html.cherish body {	
+	background-image:url("images/cherish.jpg");
+}
+
+html.bridge body {	
+	background-image:url("images/bridge.jpg");
+}
+
+html._50 body {	
+	background-image:url("images/50.jpg");
+}
+
+html.how body {	
+	background-image:url("images/how.jpg");
+}
+
+html.metrics body {	
+	background-image:url("images/metrics.jpg");
+}
+
+html.website body {	
+	background-image:url("images/website.png");
+}
+
+html.conference body {	
+	background-image:url("images/conference.jpg");
+}
+
+html.mousetrap body {	
+	background-image:url("images/mousetrap.jpg");
+}
+
+html.nutshell body {	
+	background-image:url("images/nutshell.jpg");
+}
+
+html.package body {	
+	background-image:url("images/package.jpg");
+}
+
 html.toolbox body {	
 	background-image:url("images/toolbox.jpg");
 }
@@ -42,6 +86,27 @@ html.barrier body {
 html.engage body {	
 	background-image:url("images/engage.jpg");
 }
+
+html.tile body {	
+	background-image:url("images/tile.jpg");
+}
+
+html.escher body {	
+	background-image:url("images/escher.jpg");
+}
+
+html.lock body {	
+	background-image:url("images/escher.jpg");
+}
+
+html.lock body {	
+	background-image:url("images/lock.jpg");
+}
+
+html.yes body {	
+	background-image:url("images/yes.jpg");
+}
+
 
 
 /*

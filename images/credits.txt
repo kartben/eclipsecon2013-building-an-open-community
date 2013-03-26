@@ -3,3 +3,6 @@ toolbox.jpg			- http://www.flickr.com/photos/16577536@N00/398429879
 vision.jpg			- http://www.flickr.com/photos/16230215@N08/4040360452
 barrier.jpg			- http://www.flickr.com/photos/24108473@N06/7391712358
 engage.jpg			- http://www.flickr.com/photos/32974871@N00/2266850935
+tile.jpg			- http://www.flickr.com/photos/41864721@N00/4168038795/
+lock.jpg			- http://www.flickr.com/photos/30595068@N06/8152791780
+yes.jpg				- http://www.flickr.com/photos/31797858@N00/5136491272
